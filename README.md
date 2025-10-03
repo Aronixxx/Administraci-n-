@@ -15,7 +15,8 @@
 <body>
   <h2>Administrador de Fotos</h2>
   <p>Subir nueva imagen (solo visual, no se guarda en GitHub desde navegador):</p>
-  <input type="file"><br><br><input type="text" placeholder="Álbum"><br><br>
+  <input type="file"><br><br>
+<input type="text" placeholder="Álbum"><br><br>
   <button>Subir foto</button>
 
   <h3>Fotos existentes</h3>
